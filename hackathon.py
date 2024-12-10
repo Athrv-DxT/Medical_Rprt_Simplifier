@@ -1,3 +1,5 @@
+# sample code for pdf extractor
+
 import PyPDF2
 
 def read_pdf(file_path):

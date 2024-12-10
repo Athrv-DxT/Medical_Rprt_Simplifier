@@ -1,450 +1,56 @@
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 02:18 PM.
-Referred By : Self Barcode No : HQ029789
-Sample Type : Whole blood EDTA Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-Complete Blood Count (CBC),,,
-RBC Parameters,,,
-"Hemoglobin
-Spectrophotometry",13.1,g/dL,12.0 - 15.0
-"RBC Count
-Electrical impedance",5.6,10^6/µl,3.8 - 4.8
-"PCV
-Calculated",39.2,%,36 - 46
-"MCV
-Calculated",69.8,fl,83 - 101
-"MCH
-Calculated",23.3,pg,27 - 32
-"MCHC
-Calculated",33.4,g/dL,31.5 - 34.5
-"RDW (CV)
-Calculated",18,%,11.6 - 14.0
-"RDW-SD
-Calculated",38.6,fl,35.1 - 43.9
-WBC Parameters,,,
-"TLC
-Electrical impedance and microscopy",6.8,10^3/µl,4 - 10
-Differential Leucocyte Count,,,
-"Neutrophils
-Flow-cytometry DHSS",55,%,40-80
-"Lymphocytes
-Flow-cytometry DHSS",38,%,20-40
-"Monocytes
-Flow-cytometry DHSS",5,%,2-10
-"Eosinophils
-Flow-cytometry DHSS",2,%,1-6
-"Basophils
-Flow-cytometry DHSS",0,%,<2
-"Absolute Leukocyte Counts
-calculated",,,
-Neutrophils.,3.74,10^3/µl,2 - 7
-"Lymphocytes.
-Calculated",2.58,10^3/µl,1 - 3
-"Monocytes.
-Calculated",0.34,10^3/µl,0.2 - 1.0
-"Eosinophils.
-Calculated",0.14,10^3/µl,0.02 - 0.5
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 02:18 PM.
-Referred By : Self Barcode No : HQ029789
-Sample Type : Whole blood EDTA Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-Calculated,,,
-Platelet Parameters,,,
-"Platelet Count
-Electrical impedance and microscopy",350,10^3/µl,150 - 410
-"Mean Platelet Volume (MPV)
-Calculated",8.2,fL,9.3 - 12.1
-"PCT
-Calculated",0.3,%,0.17 - 0.32
-"PDW
-Calculated",12.3,fL,8.3 - 25.0
-"P-LCR
-Calculated",20.4,%,18 - 50
-"P-LCC
-Calculated",71,%,44 - 140
-"Mentzer Index
-Calculated",12.46,%,> 13
-"Interpretation:
-CBC provides information about red cells, white cells and platelets. Results are useful in the diagnosis of anemia, infections, leukemias, clotting
-disorders and many other medical conditions.",,,
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:08 PM.
-Referred By : Self Barcode No : HQ029789
-Sample Type : Whole blood EDTA Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-Erythrocyte Sedimentation Rate (ESR),,,
-"ESR - Erythrocyte Sedimentation Rate
-MODIFIED WESTERGREN",5,mm/hr,0 - 12
-"Interpretation:
-ESR is also known as Erythrocyte Sedimentation Rate. An ESR test is used to assess inflammation in the body. Many conditions can cause an
-abnormal ESR, so an ESR test is typically used with other tests to diagnose and monitor different diseases. An elevated ESR may occur in
-inflammatory conditions including infection, rheumatoid arthritis ,systemic vasculitis, anemia, multiple myeloma , etc. Low levels are typically
-seen in congestive heart failure, polycythemia ,sickle cell anemia, hypo fibrinogenemia , etc.
-Reference- Dacie and lewis practical hematology",,,
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:22 PM.
-Referred By : Self Barcode No : HQ029789
-Sample Type : Whole blood EDTA Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-Malarial Parasite (MP) Smear,,,
-"MP(PBF FOR MP)
-MICROSCOPY",Not Seen,,NOT SEEN
-"Interpretation:
-1. Malaria is a serious parasitic diseases characterized by fever, chills, and anemia and is caused by a parasite that is transmitted human to
-human by the bite of infected female Anopheles mosquitoes.
-2. Malarial Parasite test is performed on the blood sample to find out the level of Malaria Parasite in the blood.
-3. It is conducted to conclude on Malaria and also during the treatment and after the treatment of Malaria.
-4. Most people will have symptoms within 14 days of being bitten by an infected mosquito. But symptoms can show up as soon as seven days
-afterward or can take as long as a year to appear.
-5. Clinical decision should not be based on the results of this test, but should be made by the physician after all clinical and laboratory findings
-have been evaluated.",,,
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:22 PM.
-Referred By : Self Barcode No : HQ029789
-Sample Type : Whole blood EDTA Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-"Malaria Antigen, Rapid Card",,,
-Plasmodium Vivax,Negative,,Negative
-Plasmodium falciparum,Negative,,Negative
-"Interpretation:
-Immunochromatographic Assay done for Plasmodium falciparum using Histidine-Rich Protein-II (HRP-II) and Plasmodium species (Plasmodium
-falciparum, P. vivax, P. ovale and P. malariae) using lactate dehydrogenase (pLDH) in human whole blood.",,,
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:10 PM.
-Referred By : Self Barcode No : ZD707635
-Sample Type : Serum Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-"Bilirubin (Total, Direct, Indirect)",,,
-"Bilirubin Total
-diazonium salt",0.54,mg/dL,0.2 - 1.2
-"Bilirubin Direct
-Diazo Reaction",0.21,mg/dL,0.0 - 0.5
-"Bilirubin Indirect
-Calculation (T Bil - D Bil)",0.33,mg/dL,0.1 - 1.0
-"Interpretation:
-Adults and children
-Increased total bilirubin that is mainly unconjugated (indirect) bilirubin may be a result of:-
-1. Hemolytic or pernicious anemia
-2. Transfusion reaction
-3. Cirrhosis
-4. A relatively common inherited condition called Gilbert syndrome, due to low levels of the enzyme that produces conjugated bilirubin.
-Newborns
-An elevated bilirubin level in a newborn may be temporary and resolve itself within a few days to two weeks. However, if the bilirubin level is
-above a critical threshold or increases rapidly, an investigation of the cause is needed so appropriate treatment can be initiated. Increased
-bilirubin concentrations may result from the accelerated breakdown of red blood cells due to:
-1. Blood type incompatibility between the mother and her newborn
-2. Certain congenital infections
-3. Lack of oxygen (hypoxia)
-4. Diseases that can affect the liver
-In most of these conditions, only unconjugated (indirect) bilirubin is increased.",,,
-SGOT / AST,,,
-"SGOT/AST
-Enzymatic {NADH (without P5P)}",14,U/L,5 - 34
-"Interpretation:
-Serum AST is used for differential diagnosis of diseases of hepatobiliary system and pancreas. Increased values are seen in liver diseases
-like acute viral hepatitis, cirrhosis, biliary obstruction, primary or metastatic cancer, granuloma, hepatic ischaemia.",,,
-SGPT / ALT,,,
-"SGPT/ALT
-Enzymatic {NADH (without P5P)}",13,U/L,0 to 55
-"Interpretation:
-Serum ALT is used for differential diagnosis of diseases of hepatobiliary system and pancreas. Increased in alcohalic hepatitis, cirrhosis,
-hepatocellular carcinoma, chronic hepatitis. Decreased in genito-urinary tract infection, malignancy, pyridoxal phosphate deficiency states
-(malnutrition, pregnancy, alcoholic liver disease).",,,
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:10 PM.
-Referred By : Self Barcode No : ZD707635
-Sample Type : Serum Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-"C-Reactive Protein (CRP), Quantitative",,,
-"CRP (Quantitative)
-Immunoturbidimetry",1.6,mg/L,up to 5
-"Interpretation:
-Increased CRP level:
-1. A high or increasing amount of CRP in the blood suggests the presence of inflammation but will not identify its location or the cause.
-2. Suspected bacterial infection—a high CRP level can provide indication that patient has an infection.
-3. Chronic inflammatory disease—high levels of CRP suggest a flare-up if you have a chronic inflammatory disease or that treatment has not
-been effective.
-If the CRP level is initially elevated and drops, it means that the inflammation or infection is subsiding and/or responding to treatment.",,,
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:04 PM.
-Referred By : Self Barcode No : SI559248
-Sample Type : Serum Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-WIDAL By Slide Agglutination,,,
-Salmonella typhi O (TO),1:80,Titre,< 1:80
-Salmonella typhi H (TH),1:80,Titre,< 1:160
-Salmonella paratyphi A(H),1:40,Titre,< 1:80
-Salmonella Paratyphi B(H),1:40,Titre,< 1:80
-"Interpretation:
-METHOD-(Slide Agglutination)
-1.Titres >1:80 of “O” antigen & >1:160 of “H” antigen for Salmonella typhi and titres >1:80 of “H” antigen for Salmonella paratyphi A & B are
-reactive.
-2. Rising titres in paired samples taken 7-10 days apart are more significant than a single test.
-3. Reactive results indicates ongoing or recent infection by Salmonella spp. and the diagnosis should be confirmed by gold standard test such
-as Blood culture.
-4. The reactivity will vary with stage of the disease with appearance in 1st week to increase in titres till end of 4th week post which it starts
-decreasing.
-5. In TAB vaccinated patients, high titres of H antibody of ≥1:160 to each of Salmonellae is observed. They tend to persist for many months and
-even years while O antibody shows lower titres and disappears within 6 months.
-6. Antibiotic treatment during 1st week before the appearance of antibodies tend to supress the immune response in the form of no or
-decreasing antibody levels.
-7. False positive results/anamnestic response may be seen in patients with past enteric infection and during unrelated fevers like Malaria,
-Influenzae etc. in the form of transient rise in H antibody in Widal test.
-8. False negative results may be due to processing of sample collected early in the course of disease (1st week) and immunosuppression.
-9. Test conducted on serum.
-Uses
-To diagnose infection due to Salmonella spp. (Enteric fever).
-To monitor the progression of disease.
-To assess the response to therapy (decreasing titres) in patients being treated for Enteric fever",,,
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:04 PM.
-Referred By : Self Barcode No : SI559248
-Sample Type : Serum Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-"Typhidot IgM, Rapid Card",,,
-"TYPHI DOT/ SALMONELLA TYPHI IgM
-Qualilative immunoassay,rapid card",Negative,-,Negative
-"Interpretation:
-RESULTS REMARKS
-Positive Indicates presence of IgM antibodies against Salmonella typhi.
-Negative Indicates absence of IgM antibodies against Salmonella typhi.
-Note:
-1.Its positivity in serum indicates ongoing or recent infection by Salmonella typhi and the diagnosis should be confirmed by gold standard test
-such as Blood culture prior to start of antibiotics.
-2.IgM antibodies are typically detectable 5-7 days post symptom onset, peaking in 2nd week and frequently remain elevated for 2-4 months
-following infection.
-3.False positive results may be due to cross reactivity with other Salmonella spp., Dengue virus infection & in patients with high levels of
-Rheumatoid factor.
-4. False negative reaction may be due to processing of sample collected early in the course of disease, antibiotic treatment during 1st week and
-immunosuppression.
-5. Test conducted on serum.
-Use
-To diagnose infection due to Salmonella typhi (Enteric fever).",,,
-RESULTS,REMARKS
-Positive,Indicates presence of IgM antibodies against Salmonella typhi.
-Negative,Indicates absence of IgM antibodies against Salmonella typhi.
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 06:07 PM.
-Referred By : Self Barcode No : SI559248
-Sample Type : Serum Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-"Dengue Ns1 Antigen Test, EIA",,,
-"DENGUE NS1 ANTIGEN
-(Serum,EIA)",0.5265(NEGATIVE),Ag Unit,"Negative <1
-Positive >=1"
-"Interpretation:
-BIOLOGICAL REFERANCE INTERVAL
-NEGATIVE <1.0
-POSITIVE >1.0
-Note: As per regulation, specimen collecting Laboratory is responsible for reporting positive Dengue cases to Municipal corporation.
-Indication: The Dengue (NS1) Antigen assay is a Enzyme linked immunoassay (EIA) for the detection of Dengue virus NS1 Antigen in human serum or
-plasma(heparin).
-The serological detection of the highly specific dengue virus NS1antigen in patients with a dengue virus infection is possible at the onset of clinical symptoms in
-primary as well as secondary infections. Thus determination of Dengue (NS1) Antigen is an important supportive aid for diagnosis of acute dengue virus
-infections.
-Clinical background: Dengue virus (serotypes Den 1, Den 2, Den 3, Den 4) is a flavivirus with global distribution and is transmitted by mosquitoes ( Aedes
-aegyptii, Aedes albopictus etc). It may cause Dengue fever, Dengue haemorrhagic fever or Dengue Shock syndrome.
-Following the dengue infection, an incubation period of 3 to7 days, some infections maybe asymptomatic. Symptomatic patients develop fever with or without
-rash, severe musculoskeletal pain, headache, retro-orbital pain, petechiae etc. In most individuals there is resolution of illness without complications. In some
-individuals the Dengue fever may progress to Dengue haemorrhagic fever or Dengue Shock syndrome especially during repeat infection with a new Dengue
-Virus serotype.
-Dengue virus antigen usually appears in blood within 24 hours of onset of symptoms to symptoms till 9 days post onset of symptoms.
-Positive: The presence of Dengue nonstructural protein 1 (NS1) antigen is consistent with acute infection with dengue virus. The NS1 antigen is typically
-detectable within 1 to 2 days following infection and up to 9 days following symptom onset. NS1 antigen may also be detectable during secondary dengue virus
-infection, but for a shorter duration of time (1-4 days following symptom onset).
-Negative: The absence of dengue NS1 antigen is suggestive of absence of acute phase of the infection. The NS1 antigen may be negative if specimen is
-collected too early such as immediately following dengue virus infection (<24-48 hours) or is collected following 9 to 10 days of symptoms. Results should always
-be interpreted in conjunction with clinical presentation and exposure history.
-Limitations: Uncommonly, false positive Dengue NS1 antigen results may be seen in individuals with other flaviviruses west nile virus as well as Yellow fever.
-Negative NS1 antigen results may occur if the specimen was collected greater than 7 days following symptom onset. Serologic testing for the presence of IgM
-and IgG antibodies to Dengue Virus is recommended in such cases.",,,
-BIOLOGICAL REFERANCE INTERVAL
-NEGATIVE <1.0
-POSITIVE >1.0
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 06:07 PM.
-Referred By : Self Barcode No : SI559248
-Sample Type : Serum Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-"Dengue IgM Antibodies, EIA",,,
-"DENGUE FEVER ANTIBODY, IgM, SERUM
-SERUM, EIA",0.5895(NEGATIVE),Units,"Negative <1
-Positive >=1"
-"Interpretation:
-RESULT(Units) REMARKS
-No detectable IgM antibody. Result does not rule out Dengue infection.
-Negative (<1)
-Additional sample to be tested after 7-14 days if infection is suspected.
-IgM antibody detected. Suggestive of Primary / Secondary Dengue
-Positive (>=1)
-infection.
-NOTE-
-1. The test should be used for detection of IgM antibodies of dengue in human serum/plasma.
-2. This is only a screening test and will only indicate the presence or absence of Dengue antibodies in the specimen. All reactive sample
-should be confirmed by confirmatory test. Therefore for a definitive diagnosis, the patients clinical history , symptomatology as well as
-serological data should be considered. The results should be reported only after complying with the above prrocedure.
-3. False positive results can be obtained due to cross reaction with Epstein-BARR virus, RA, Leptospira, Malaria, hepatitis-A, Infuenza A & B,
-S.typhi Japanese encephatlites, westnile virus diseased. This occurs in less then 1% of the sample tested.
-4. Immuno-despressive treatments presumably after the immune response to infection, inducing negative results in IgM in dengue patients.
-Comments
-Dengue viruses belong to the family Flaviviridae and have 4 subtypes (1-4). Dengue virus is transmitted by the mosquito Aedes aegypti and
-Aedes albopictus, widely distributed in Tropical and Subtropical areas of the world. Dengue is considered to be the most important arthropod
-borne viral disease due to the human morbidity and mortality it causes. The disease may be subclinical, self limiting, febrile or may progress to
-a severe form of Dengue hemorrhagic fever or Dengue shock syndrome.",,,
-RESULT(Units),REMARKS
-Negative (<1),"No detectable IgM antibody. Result does not rule out Dengue infection.
-Additional sample to be tested after 7-14 days if infection is suspected."
-Positive (>=1),"IgM antibody detected. Suggestive of Primary / Secondary Dengue
-infection."
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 06:07 PM.
-Referred By : Self Barcode No : SI559248
-Sample Type : Serum Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-"Dengue IgG Antibodies, EIA",,,
-"DENGUE FEVER ANTIBODY, IgG, SERUM
-Serum, EIA",0.6525(NEGATIVE),-,"Negative <1
-Positive >=1"
-"Interpretation:
-RESULT(Units) REMARKS
-No detectable IgG antibody. Result does not rule out Dengue infection. Additional sample to be tested after 7-14 days if
-Negative (<1)
-infection is suspected.
-Positive (>=1) IgG antibody detected. Suggestive of Primary / Secondary Dengue infection.
-NOTE-
-1. The test should be used for detection of IgG antibodies of dengue in human serum/plasma.
-2. This is only a screening test and will only indicate the presence or absence of Dengue antibodies in the specimen. All reactive sample
-should be confirmed by confirmatory test. Therefore for a definitive diagnosis, the patients clinical history , symptomatology as well as
-serological data should be considered. The results should be reported only after complying with the above prrocedure.
-3. False positive results can be obtained due to cross reaction with Epstein-BARR virus, RA, Rubella, Anti-nulcear antibody, Japanese
-encephatlites, westnile virus diseased. This occurs in less then 1% of the sample tested.
-4. Immuno-despressive treatments presumably after the immune response to infection, inducing negative results in IgG in dengue patients.
-Comments
-Dengue viruses belong to the family Flaviviridae and have 4 subtypes (1-4). Dengue virus is transmitted by the mosquito Aedes aegypti and
-Aedes albopictus, widely distributed in Tropical and Subtropical areas of the world. Dengue is considered to be the most important arthropod
-borne viral disease due to the human morbidity and mortality it causes. The disease may be subclinical, self limiting, febrile or may progress to
-a severe form of Dengue hemorrhagic fever or Dengue shock syndrome.",,,
-RESULT(Units),REMARKS
-Negative (<1),"No detectable IgG antibody. Result does not rule out Dengue infection. Additional sample to be tested after 7-14 days if
-infection is suspected."
-Positive (>=1),IgG antibody detected. Suggestive of Primary / Secondary Dengue infection.
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:46 PM.
-Referred By : Self Barcode No : YA913956
-Sample Type : Spot Urine Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-Urine Routine and Microscopic Examination,,,
-Physical Examination,,,
-"Volume
-visual",20,mL,
-"Colour
-visual",Yellow,,Pale yellow
-"Transparency
-visual",Hazy,,Clear
-"Deposit
-visual",Present,,Absent
-Chemical Examination,,,
-"Reaction (pH)
-Double Indicator",6.5,,5.5-8.0
-"Specific Gravity
-Ion Exchange.",1.025,0,1.010 - 1.030
-"Urine Glucose (sugar)
-Oxidase / Peroxidase",Negative,,Negative
-"Urine Protein (Albumin)
-bromophenol blue",Negative,,Negative
-"Urine Ketones (Acetone)
-Legals Test",Negative,,Negative
-"Blood
-Peroxidase Hemoglobin",Negative,,Negative
-"Leucocyte esterase
-amino acid aster",Negative,,Negative
-"Bilirubin Urine
-Diazotized dicholoroaniline",Negative,,Negative
-"Nitrite
-Griless Test",Negative,,Negative
-"Urobilinogen
-Ehrlichs Test",Normal,,Normal
-Microscopic Examination,,,
-"Pus Cells (WBCs)
-WET MOUNT",6-8,/hpf,0-5
-"Epithelial Cells
-WET MOUNT",2-4,/hpf,0-4
-"Red blood Cells
-WET MOUNT",Absent,/hpf,Absent
-"Crystals
-WET MOUNT",Absent,,Absent
-"Cast
-WET MOUNT",Absent,,Absent
-"Yeast Cells
-WET MOUNT",Absent,,Absent
-"Patient Name : Ms Eshani Sharma
-DOB/Age/Gender : 17 Y/Female Sample Collected : Jul 23, 2024, 10:05 AM
-Patient ID / UHID : 9056419/RCL8424330 Report Date : Jul 23, 2024, 03:46 PM.
-Referred By : Self Barcode No : YA913956
-Sample Type : Spot Urine Report Status : Final Report",,,
-Test Description,Value(s),Unit(s),Reference Range
-"Amorphous deposits
-WET MOUNT",Absent,,Absent
-"Bacteria
-WET MOUNT",Present(++),,Absent
-"Protozoa
-WET MOUNT",Absent,,Absent
-"Interpretation:
-URINALYSIS- Routine urine analysis assists in screening and diagnosis of various metabolic, urological, kidney and liver disorders.
-Protein: Elevated proteins can be an early sign of kidney disease. Urinary protein excretion can also be temporarily elevated by strenuous
-exercise, orthostatic proteinuria, dehydration, urinary tract infections and acute illness with fever
-Glucose: Uncontrolled diabetes mellitus can lead to presence of glucose in urine. Other causes include pregnancy, hormonal disturbances,
-liver disease and certain medications.
-Ketones: Uncontrolled diabetes mellitus can lead to presence of ketones in urine. Ketones can also be seen in starvation, frequent vomiting,
-pregnancy and strenuous exercise.
-Blood: Occult blood can occur in urine as intact erythrocytes or haemoglobin, which can occur in various urological, nephrological and bleeding
-disorders.
-Leukocytes: An increase in leukocytes is an indication of inflammation in urinary tract or kidneys. Most common cause is bacterial urinary tract
-infection.
-Nitrite: Many bacteria give positive results when their number is high. Nitrite concentration during infection increases with length of time the
-urine specimen is retained in bladder prior to collection.
-pH: The kidneys play an important role in maintaining acid base balance of the body. Conditions of the body producing acidosis/ alkalosis or
-ingestion of certain type of food can affect the pH of urine.
-Specific gravity: Specific gravity gives an indication of how concentrated the urine is. Increased specific gravity is seen in conditions like
-dehydration, glycosuria and proteinuria while decreased specific gravity is seen in excessive fluid intake, renal failure and diabetes insipidus.
-Bilirubin: In certain liver diseases such as biliary obstruction or hepatitis, bilirubin gets excreted in urine.
-Urobilinogen: Positive results are seen in liver diseases like hepatitis and cirrhosis and in cases of haemolytic anaemia.",,,
-*** End Of Report ***,,,
-"SMART HEALTH REPORRRRTTTT
-MC-5280"
-"About Redcliffe Labs
-We are India’s Most Trusted & Fastest Growing Network of Diagnostics Labs
-Best Customer Quality Commitment Affordable Prices
-Experience With Accurate Reports With Quick Results
-Commitment to excellence, Focus on quality with Value for money with
-high end technology oriented staff accurate results quick turn around time (TAT)
-A step towards sustainable future
-At Redcliffe Labs, we prioritize environmental sustainability. Please consider
-the environmental impact before printing reports. If not essential, refrain
-from printing to conserve paper and reduce our ecological footprint.
-Select from a wide range of
-Full Body Health Check-up
-packages that suits your health
-Best Selling Package
-Annual Health Checkup
-Advance Plus with Free HsCRP
-Get free report consultation
-& download our app
-A Simple and easy way to track your health
-3600 + Tests & Packages Presence in 220+ Cities
-45 Min Express Sample 100% Accurate Report
-Collection Guarantee."
+,,"DRLOGY PATHOLOGY LAB
+0123456789 | 0912345678
+drlogypathlab@drlogy.com
+Accurate | Caring | Instant
+105 -108, SMART VISION COMPLEX, HEALTHCARE ROAD, OPPOSITE HEALTHCARE COMPLEX. MUMBAI - 689578
+www.drlogy.com
+Yash M. Patel Sample Collected At:
+Age : 21 Years 125, Shivam Bungalow, S G Road,
+Registered on: 02:31 PM 02 Dec, 2X
+Mumbai
+Sex : Male
+Collected on: 03:11 PM 02 Dec, 2X
+PID : 555 Ref. By: Dr. Hiren Shah Reported on: 04:35 PM 02 Dec, 2X
+Complete Blood Count (CBC)
+Investigation Result Reference Value Unit
+Primary Sample Type : Blood
+HEMOGLOBIN
+Hemoglobin (Hb) 12.5 Low 13.0 - 17.0 g/dL
+RBC COUNT
+Total RBC count 5.2 4.5 - 5.5 mill/cumm
+BLOOD INDICES
+Packed Cell Volume (PCV) 57.5 High 40 - 50 %
+Mean Corpuscular Volume (MCV) 87.75 83 - 101 fL
+Calculated
+MCH 27.2 27 - 32 pg
+Calculated
+MCHC 32.8 32.5 - 34.5 g/dL
+Calculated
+RDW 13.6 11.6 - 14.0 %
+Smart Pathology Laboratory
+WBC COUNT
+Total WBC count 9000 4000-11000 cumm
+DIFFERENTIAL WBC COUNT
+Drlogy.com
+Neutrophils 60 50 - 62 %
+Lymphocytes 31 20 - 40 %
+Eosinophils 1 00 - 06 %
+Monocytes 7 00 - 10 %
+Basophils 1 00 - 02 %
+PLATELET COUNT
+Platelet Count 150000 Borderline 150000 - 410000 cumm
+Instruments: Fully automated cell counter - Mindray 300
+Interpretation: Further confirm for Anemia
+Thanks for Reference ****End of Report****
+Medical Lab Technician Dr. Payal Shah Dr. Vimal Shah
+(DMLT, BMLT) (MD, Pathologist) (MD, Pathologist)
+Generated on : 02 Dec, 202X 05:00 PM Page 1 of 1
+Sample Collection 0123456789",,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,Sample Collection 0123456789,
+,,,,,,
+,,,
+,,www.drlogy.com,
+,,,

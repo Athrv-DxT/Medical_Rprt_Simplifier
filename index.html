@@ -3,18 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Uploader</title>
+    <title>Medical Report Simplifier</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Upload a PDF File</h1>
-    <form id="pdfForm">
-        <input type="file" id="pdfInput" accept="application/pdf" required>
-        <button type="submit">Upload</button>
-    </form>
-    <h2>Response:</h2>
-    <pre id="responseMessage"></pre>
+    <div class="br">
+        <h1>Medical Report Simplifier</h1>
+    </div>
 
-    <script src="/script.js"></script>
+    <main>
+        <section id="home">
+            <div class="image-box">
+                <!-- Background image that will change -->
+                <div id="backgroundImage"></div>
 
+                <!-- Glassmorphism Container -->
+                <div class="glass-container">
+                    <h1>Upload a PDF File</h1>
+
+                    <!-- Form to upload PDF -->
+                    <form id="pdfForm">
+                        <input type="file" id="pdfInput" accept="application/pdf" required>
+                        <button type="submit">Upload</button>
+                    </form>
+
+                    <h2>Response:</h2>
+
+                    <!-- Response message will be displayed here -->
+                    <pre id="responseMessage"></pre>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
 </body>
 </html>

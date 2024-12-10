@@ -1,0 +1,119 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Body Styles */
+body {
+    background: linear-gradient(to bottom, #14919B, #0B6477, #213A57);
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    color: white;
+}
+
+/* Header Section */
+.br {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 30px;
+    border-radius: 45px;
+    background:#002147;
+    box-shadow: 0 40px 100px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(20px);
+    opacity: 0;
+    transform: translateY(-50px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.br.animate {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.br h1 {
+    font-size: 4.0rem;
+    color: #d2b48c;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Main Section */
+main {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Image Background */
+.image-box {
+    width: 600px; /* Larger width */
+    height: 400px; /* Larger height */
+    position: relative; /* For positioning the glass container */
+    border-radius: 20px;
+    overflow: hidden; /* Clip overflowed parts of images */
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+}
+
+#backgroundImage {
+    width: 100%;
+    height: 100%;
+    background-size: cover; /* Maintain aspect ratio of images */
+    background-position: center; /* Center the image */
+    transition: opacity 0.5s ease-in-out;
+}
+
+.glass-container {
+    position: absolute; /* Position relative to the image box */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust for element size */
+    width: 80%; /* Take up most of the width of the image box */
+    padding: 30px;
+    border-radius: 20px;
+    background: rgba(103, 143, 119, 0.2); /* Transparent white */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    backdrop-filter: blur(15px); /* Stronger blur */
+    -webkit-backdrop-filter: blur(15px); /* Safari support */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Light border */
+    text-align: center;
+    color: white;
+}
+
+.glass-container h1,
+.glass-container h2 {
+    color: #8b004b;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.glass-container form {
+    margin-bottom: 20px;
+}
+
+.glass-container button {
+    background: linear-gradient(to right, #43C6AC, #F8FFAE);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.glass-container button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.glass-container pre {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 10px;
+    color: #fff;
+    overflow-x: auto;
+}
